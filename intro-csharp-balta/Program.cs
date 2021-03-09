@@ -6,8 +6,6 @@ namespace intro_csharp_balta
 {
     class Program
     {
-        private const bool V = true;
-
         static void Main(string[] args)
         {
             Console.WriteLine(DateTime.Now);
