@@ -1,0 +1,13 @@
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.exe
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.deps.json
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.dll
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\bin\Debug\netcoreapp3.1\intro-csharp-balta.pdb
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.csprojAssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.dll
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.pdb
+C:\Users\jhona\OneDrive\Documentos\cursos\balta\intro-csharp-balta\intro-csharp-balta\obj\Debug\netcoreapp3.1\intro-csharp-balta.genruntimeconfig.cache
